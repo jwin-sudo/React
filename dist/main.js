@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=function(){return React.createElement("h2",null,"Hello ","React"," ")};ReactDOM.render(React.createElement(e,null),document.getElementById("root"))})();
